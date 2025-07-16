@@ -1,0 +1,23 @@
+{
+  "name": "redux-toolkit-2025",
+  "version": "1.0.0",
+  "description": "Redux is a JavaScript state management library — most commonly used with React, but it can work with any UI framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakibmia51/Redux-toolkit-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakibmia51/Redux-toolkit-2025/issues"
+  },
+  "homepage": "https://github.com/Rakibmia51/Redux-toolkit-2025#readme",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
